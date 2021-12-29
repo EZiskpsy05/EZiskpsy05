@@ -6,7 +6,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=http%3A%2F%2Fhowardtran.rf.gd)](http://howardtran.rf.gd)
 
 
-![Alt Text](https://imgur.com/gallery/TY0HJHD)
+![Alt Text](https://imgur.com/sJ9kLvs)
 [![0lKk@e$1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true$theme=synthwave)](https://github.com/EZiskpsy05)
 
 <!--
