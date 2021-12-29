@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![0lKk@e$1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **EZiskpsy05/EZiskpsy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
