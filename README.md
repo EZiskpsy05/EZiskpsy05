@@ -1,6 +1,12 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/-@EZiskpsy05-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@EZiskpsy05-%23181717?style=flat-square&logo=github)](https://github.com/EZiskpsy05)
+[![](https://img.shields.io/badge/-@EZiskpsy05-%23000000?style=flat-square&logo=codepen)](https://codepen.io/0lKk)
+[![](https://img.shields.io/badge/-@EZiskpsy05-%23000000?style=flat-square&logo=facebook)](https://www.facebook.com/Bla3tC9t)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=http%3A%2F%2Fhowardtran.rf.gd)](http://howardtran.rf.gd)
 
 
+![Alt Text](https://imgur.com/gallery/TY0HJHD)
 [![0lKk@e$1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true$theme=synthwave)](https://github.com/EZiskpsy05)
 
 <!--
