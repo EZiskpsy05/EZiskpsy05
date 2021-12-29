@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![](https://img.shields.io/badge/-@EZiskpsy05-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-@EZiskpsy05-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/OlKkaeS1)
 [![](https://img.shields.io/badge/-@EZiskpsy05-%23181717?style=flat-square&logo=github)](https://github.com/EZiskpsy05)
-[![](https://img.shields.io/badge/-@EZiskpsy05-%23000000?style=flat-square&logo=codepen)](https://codepen.io/0lKk)
-[![](https://img.shields.io/badge/-@EZiskpsy05-%23000000?style=flat-square&logo=facebook)](https://www.facebook.com/Bla3tC9t)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=http%3A%2F%2Fhowardtran.rf.gd)](http://howardtran.rf.gd)
+[![](https://img.shields.io/badge/-@0lKk-%23000000?style=flat-square&logo=codepen)](https://codepen.io/0lKk)
+[![](https://img.shields.io/badge/-@Bla3tC9t-%23000000?style=flat-square&logo=facebook)](https://www.facebook.com/Bla3tC9t)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=howardtran.rf.gd&url=http%3A%2F%2Fhowardtran.rf.gd)](http://howardtran.rf.gd)
 
 
 ![Alt Text](https://imgur.com/sJ9kLvs)
