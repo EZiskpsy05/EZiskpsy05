@@ -23,9 +23,8 @@
          <br/>
          - 💬 You can ask me about <strong>ʙᴀꜱɪᴄ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ, ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋɪɴɢ, ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜱᴇᴄᴜʀɪᴛʏ, ᴄʀʏᴘᴛᴏɢʀᴀᴘʜʏ, ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴘʜʏꜱɪᴄꜱ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ</strong> 
          <p align="center">                     
-             <img align="left" src="https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true$theme=aura&title_color=12F9EA"/>
-             <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZiskpsy05&layout=compact&theme=dracula" />
-        </p>
+             <img align="left" src="https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true$theme=aura&title_color=12F9EA"/></p>
+      <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=eziskpsy05&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="eziskpsy05" /></p>
 </table>
 </p>
 
