@@ -20,7 +20,7 @@
          <br/>
          - 🌱 I’m currently working on <strong>ᴄ ɢᴇɴᴇʀᴀᴛɪᴏɴ(ᴄ, ᴄ#, ᴄ++), ᴘʏᴛʜᴏɴ, ᴊꜱ</strong> -
          <br/>
-         - 🆒 I'm a student at Moncton, NB, Canada
+         - 🆒 I'm currently a student at Missisauga, ON, Canada
          <br/>
          - 💬 You can ask me about <strong>ʙᴀꜱɪᴄ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ, ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋɪɴɢ, ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜱᴇᴄᴜʀɪᴛʏ, ᴄʀʏᴘᴛᴏɢʀᴀᴘʜʏ, ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴘʜʏꜱɪᴄꜱ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ</strong> 
          <p align="center">                     
