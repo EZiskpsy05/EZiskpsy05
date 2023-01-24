@@ -10,7 +10,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://user-images.githubusercontent.com/55793975/147712369-d7aae4a8-6a34-401c-99c3-27f5612d660b.gif"/></a><br/>
+         <br/>
          <br/><br/>
             <a href="#"><img align="center"></a>
             <a href="https://app.daily.dev/olkkaesi"><img src="https://api.daily.dev/devcards/a715e312a29f4ffb8f6763146261c579.png?r=maq" width="400" alt="OlKkaes1's Dev Card"/></a>
