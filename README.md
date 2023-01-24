@@ -17,11 +17,11 @@
          <br/><br/>
          - ☎️ Contact Me Here <strong><a href="https://facebook.com/Bla3tC9t">ʀᴀᴡ ʜᴇᴀᴅ ʀᴇᴅ ʜᴀᴡᴋ</a></strong> -
          <br/>
-         - 🌱 I’m currently working on <strong>ᴄ ɢᴇɴᴇʀᴀᴛɪᴏɴ(ᴄ, ᴄ#, ᴄ++), ᴘʏᴛʜᴏɴ, ᴊꜱ</strong> -
+         - 🌱 I’m currently working on <strong>C, C++, Python, SQL and cybersecurity </strong> -
          <br/>
          - 🆒 I'm currently a student at Missisauga, ON, Canada
          <br/>
-         - 💬 I have knowledge about <strong>ʙᴀꜱɪᴄ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ, ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋɪɴɢ, ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜱᴇᴄᴜʀɪᴛʏ, ᴄʀʏᴘᴛᴏɢʀᴀᴘʜʏ, ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴘʜʏꜱɪᴄꜱ, ᴀɴᴅ ᴄᴏᴍᴘᴜᴛᴇʀ</strong> 
+         - 💬 I have learnt <strong>Programming, Computer Science, Pentest, Information Security, Cryptography.</strong> 
          <p align="center">                     
 </table>
 </p>
