@@ -13,6 +13,7 @@
          <br/>
          <br/><br/>
             <a href="#"><img align="center"></a>
+            [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05)](https://github.com/EZiskpsy05/github-readme-stats)
             <a href="https://app.daily.dev/olkkaesi"><img src="https://api.daily.dev/devcards/a715e312a29f4ffb8f6763146261c579.png?r=maq" width="400" alt="OlKkaes1's Dev Card"/></a>
          <br/><br/>
          - ☎️ Contact Me Here <strong><a href="https://facebook.com/Bla3tC9t">ʀᴀᴡ ʜᴇᴀᴅ ʀᴇᴅ ʜᴀᴡᴋ</a></strong> -
