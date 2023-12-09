@@ -25,8 +25,9 @@
          <p align="center">                     
 </table>
 </p>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true&theme=synthwave)
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true&theme=synthwave" alt="My GitHub stats">
+</p>
 
 
 <!--
