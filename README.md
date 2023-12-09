@@ -25,8 +25,7 @@
          <p align="center">                     
 </table>
 </p>
-![Anurag's GitHub stats](https://readme-stats-one-blush.vercel.app/api?username=eziskpsy05&theme=dark&show_icons=true)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EZiskpsy05&show_icons=true&theme=synthwave)
 
 
 
