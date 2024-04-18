@@ -17,11 +17,11 @@
          <br/><br/>
          - ☎️ Contact Me Here <strong><a href="https://facebook.com/Bla3tC9t">ʀᴀᴡ ʜᴇᴀᴅ ʀᴇᴅ ʜᴀᴡᴋ</a></strong> -
          <br/>
-         - 🌱 I’m currently working on <strong>C, C++, Python, SQL and cybersecurity </strong> -
+         - 🌱 I’m currently working on <strong>C++, Java, SQL and cybersecurity </strong> -
          <br/>
          - 🆒 I'm currently a student at Missisauga, ON, Canada
          <br/>
-         - 💬 I have learnt <strong>Programming, Computer Science, Pentest, Information Security, Cryptography.</strong> 
+         - 💬 Have diverse skills :<strong>Debugging, Web Development, Pentest, Information Security, Network Security, and Cryptography.</strong> 
          <p align="center">                     
 </table>
 </p>
