@@ -14,7 +14,6 @@
 <br clear="both">
 
 <div>
-  <img align="left" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocKwK-vjOtwBpp6JuyHaPEzOSZ4dqKfQeh9kC1Zm2KQIIPNTJznL=s288-c-no" alt="Profile Picture" />
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eziskpsy05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Common%20Languages" height="200" alt="languages graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=Eziskpsy05&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
