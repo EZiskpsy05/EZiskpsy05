@@ -1,4 +1,4 @@
-<h2 align="right">Technology not a Major anymore</h2>
+<h2 align="right">Occasionally doing Tech as a side projects</h2>
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
