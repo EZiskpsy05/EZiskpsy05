@@ -6,6 +6,7 @@ I build and contribute to **open-source, user-focused software**, with interests
 I value **clean design, privacy-respecting practices, and thoughtful engineering** over quantity or noise.
 
 🔗 Portfolio & contact: https://howtra.rf.gd
+Contact me at: contactemail@an0n.aleeas.com
 
 ---
 
